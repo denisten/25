@@ -19,7 +19,8 @@ export default function FireworksComponent() {
                         width: '100%',
                         height: '100%',
                         position: 'fixed',
-                        background: 'transparent'
+                        background: 'transparent',
+                        pointerEvents: 'none'
                     }}
                 />
             </div>
