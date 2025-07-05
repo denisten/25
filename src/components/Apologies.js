@@ -14,7 +14,7 @@ export default function Apologies() {
                 <div className="flex-1 text-center">
                     <h2 className="text-3xl font-bold mb-4">Познакомьтесь с самой доброй девушкой в мире 💜</h2>
                     <p className="text-lg">
-                        Её зовут <h1 className="text-3xl font-bold"> Янулька-Красотулька</h1>
+                        Её зовут <span className="text-3xl font-bold"> Янулька-Красотулька</span>
                         <br/>
                         Она судит людей по себе, и всегда ищет в людях что-то хорошее
                     </p>

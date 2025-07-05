@@ -4,6 +4,7 @@ import Apologies from "@/components/Apologies";
 import Hello from "@/components/Hello";
 import Present from "@/components/Present";
 import CongratLinks from "@/components/CongratLinks";
+import FireworksComponent from "@/components/Fireworks";
 const blocks = [
     {
         text: 'Самая красивая',
@@ -61,10 +62,11 @@ export default function Home() {
             <Head>
                 <title>Для моей любимой ❤️</title>
             </Head>
+            <FireworksComponent/>
+
             <Hello/>
             {/*<Present/>*/}
             <Apologies/>
-
             <div className="max-w-5xl mx-auto">
                 <h1 className="text-4xl font-bold text-center mb-16">
                     ОНА:
