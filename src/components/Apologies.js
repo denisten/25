@@ -16,7 +16,7 @@ export default function Apologies() {
                     <p className="text-lg">
                         Её зовут <span className="text-3xl font-bold"> Янулька-Красотулька</span>
                         <br/>
-                        Она судит людей по себе, и всегда ищет в людях что-то хорошее
+                        Она судит людей по себе, поэтому всегда ищет в людях что-то хорошее
                     </p>
                 </div>
                 <div className="flex-1 flex justify-center">
